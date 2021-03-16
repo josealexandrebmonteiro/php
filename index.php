@@ -1,3 +1,5 @@
 <?php 
-	echo "teste2.0";
+	echo "teste3.0";
+
+        echo "Conflito_teste";
 ?>
